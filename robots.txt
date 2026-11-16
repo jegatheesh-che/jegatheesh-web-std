@@ -1,0 +1,64 @@
+# robots.txt for https://jegatheeshwebstudio.online
+# Purpose: Authoritative crawler & AI answer engine access rules
+
+# -----------------------------------------------------------------------------
+# Standard Search Engine Crawlers
+# -----------------------------------------------------------------------------
+# Google Search Crawler
+User-agent: Googlebot
+Allow: /
+
+# Microsoft Bing Search Crawler
+User-agent: Bingbot
+Allow: /
+
+# Apple Search & Siri Indexer
+User-agent: Applebot
+Allow: /
+
+# -----------------------------------------------------------------------------
+# AI Search & Answer Engine Crawlers (Real-Time Retrieval & Direct Citations)
+# -----------------------------------------------------------------------------
+# OpenAI SearchBot: Powers web search & citations inside ChatGPT
+User-agent: OAI-SearchBot
+Allow: /
+
+# ChatGPT-User: Triggered when a user directly prompts ChatGPT to inspect a URL
+User-agent: ChatGPT-User
+Allow: /
+
+# Claude-SearchBot: Anthropic real-time search & citation retrieval
+User-agent: Claude-SearchBot
+Allow: /
+
+# PerplexityBot: Perplexity conversational search engine & citation indexing
+User-agent: PerplexityBot
+Allow: /
+
+# -----------------------------------------------------------------------------
+# AI Model Training & Extended Crawlers
+# -----------------------------------------------------------------------------
+# GPTBot: OpenAI foundation model pre-training crawler
+User-agent: GPTBot
+Allow: /
+
+# Google-Extended: Google Gemini & Vertex AI ecosystem crawler
+User-agent: Google-Extended
+Allow: /
+
+# ClaudeBot: Anthropic general training data crawler
+User-agent: ClaudeBot
+Allow: /
+
+# Applebot-Extended: Apple Intelligence generative training control
+User-agent: Applebot-Extended
+Allow: /
+
+# -----------------------------------------------------------------------------
+# Global Rules
+# -----------------------------------------------------------------------------
+User-agent: *
+Allow: /
+
+# Canonical XML Sitemap
+Sitemap: https://jegatheeshwebstudio.online/sitemap.xml

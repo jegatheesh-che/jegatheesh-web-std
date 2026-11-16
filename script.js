@@ -574,6 +574,7 @@ function initStickyTitleScroll() {
         if (childSpans.length > 0) {
           childSpans.forEach((span) => {
             const split = new SplitText(span, { type: 'words' });
+            span.removeAttribute('aria-label');
             split.words.forEach((w) => {
               w.setAttribute('aria-hidden', 'true');
               targets.push(w);

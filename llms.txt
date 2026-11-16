@@ -1,0 +1,46 @@
+# Jegatheesh Web Studio
+
+> Bespoke, high-performance portfolio websites crafted exclusively for photographers worldwide.
+
+Jegatheesh Web Studio is an independent web design and development studio founded by Jegatheesh in 2026. Based in India, the studio operates globally, designing bespoke, visually striking digital portfolio experiences for professional photographers, fine art studios, wedding cinematographers, and visual artists across India, Canada, and worldwide.
+
+## Quick Facts
+- **Entity Name:** Jegatheesh Web Studio
+- **Founder & Lead Developer:** Jegatheesh
+- **Established:** 2026
+- **Operating Location:** India (Serving Clients Globally: Chennai, Toronto, Waterloo, and worldwide)
+- **Primary Domain:** https://jegatheeshwebstudio.online
+- **Core Specialization:** Portfolio websites exclusively for photographers
+- **Primary Communication:** WhatsApp (+91 7010254014) and Email (jegatheeshwebstudio@gmail.com)
+- **Social Profiles:**
+  - LinkedIn: https://www.linkedin.com/in/william-jegatheesh-s-b8b365329
+  - Instagram: https://www.instagram.com/jegatheeshwebstudio.in
+  - Facebook: https://www.facebook.com/profile.php?id=61575322053613
+  - GitHub: https://github.com/jegatheesh-che
+- **Personal Websites:**
+  - https://jegatheesh.fun
+  - https://jegatheesh.online
+
+## Core Services & Capabilities
+1. **Discover Your Vision:** Understanding the photographer's creative style, portfolio goals, artistic vision, and target audience.
+2. **Gather Your Story:** Curating high-resolution photo highlights, monograms, brand story, and editorial narratives.
+3. **Design & Build:** Crafting bespoke, photography-first layouts, fluid responsive galleries, mobile-first performance, and SEO, AEO & GEO optimization.
+4. **Review & Refine:** Direct one-on-one revisions and fine-tuning until the client is completely satisfied.
+5. **Launch With Confidence:** Domain setup, SSL security, speed optimization, and launch support.
+
+## Live Client Portfolio Projects
+- **Zyago Studio** (https://zyagostudio.in/): Contemporary photography and cinematography studio based in Chennai, India. Features editorial gallery layouts and a refined inquiry flow.
+- **Le PhotoGRAM** (https://lephotogram.in/): Fine art wedding photography and films studio featuring split-grid traditional storytelling and bespoke monogram identity.
+- **KVM Creations Studio** (https://kvmcreationsstudio.ca/): Luxury wedding photography and cinematography studio in Toronto, Canada, featuring frosted glassmorphism and cinema-grade ceremony galleries.
+- **Surya Photography** (https://www.suryaphotography.ca/): Event and portrait photography studio in Waterloo, Ontario, serving the Greater Toronto Area with mobile-optimized photo showcases.
+
+## Frequently Asked Questions
+- **Why do photographers need a website if they already have Instagram?** Instagram is effective for casual social browsing, but an independent website establishes professional credibility, owns the client relationship, showcases uncompressed galleries, and directly converts visitors into paying clients.
+- **Do photographers need technical knowledge to manage their websites?** No. Jegatheesh Web Studio designs systems that are straightforward to use and handles all technical infrastructure, hosting, and performance.
+- **Can photographers choose their own design and aesthetic style?** Yes. Every website is custom-crafted to reflect the individual photographer's artistic style and expectations.
+- **Are the websites optimized for mobile devices?** Yes. All websites are fully responsive and engineered for seamless browsing on smartphones, tablets, and desktops.
+- **Can clients request revisions during the design process?** Yes. Revisions and fine-tuning are included until the client is completely satisfied.
+- **Does the website include search engine and AI optimization?** Yes. Foundational SEO, AEO (Answer Engine Optimization), and GEO (Generative Engine Optimization) are integrated so portfolios can be discovered across search engines and AI answer platforms.
+
+## Full Context File
+- Complete technical documentation and extended studio background: https://jegatheeshwebstudio.online/llms-full.txt

@@ -1,0 +1,68 @@
+# Jegatheesh Web Studio — Full Knowledge Base & Machine Context
+
+## Entity Definition & Overview
+- **Legal Entity:** Jegatheesh Web Studio
+- **Founder:** Jegatheesh (Developer, UI/UX Designer)
+- **Year of Foundation:** 2026
+- **Base of Operations:** India
+- **Market Served:** Worldwide (Client portfolio active across India, Canada, United States, and international creative markets)
+- **Primary Website:** https://jegatheeshwebstudio.online/
+- **Primary Direct Contacts:**
+  - WhatsApp: +91 7010254014
+  - Email: jegatheeshwebstudio@gmail.com
+  - Phone: +91 7010254014
+
+## Business Mission & Differentiation
+Jegatheesh Web Studio focuses exclusively on portfolio websites for photographers and cinematographers. Unlike general web design agencies that use generic templates, Jegatheesh builds bespoke digital spaces where:
+- Photography remains the hero: distraction-free chrome, quiet luxury typography, edge-to-edge visuals, and fluid full-screen responsive layouts.
+- Fast loading speed is non-negotiable: modern image optimization (WebP/AVIF), asset preloading, and clean code that prevents portfolio lag.
+- Conversion-oriented workflows: direct WhatsApp inquiry triggers, one-click email inquiries, and seamless booking widgets that convert visitors into booked shoots.
+
+## Technical Standards
+- Semantic HTML5 structure with landmark roles (`header`, `main`, `footer`, `section`, `nav`).
+- Complete single-graph Schema.org JSON-LD structured data linking `Organization`, `ProfessionalService`, `Person`, `WebSite`, `WebPage`, `OfferCatalog`, `ItemList`, and `FAQPage`.
+- Responsive design tailored for mobile viewports (375px+), tablets (768px+), and high-DPI desktop displays (1440px+).
+- Zero-tracking privacy commitment: no invasive cookies, no third-party profiling, and respect for user consent.
+
+## Portfolio Case Studies
+1. **Zyago Studio**
+   - Website: https://zyagostudio.in/
+   - Location: Chennai, India
+   - Genre: Contemporary portrait photography and cinematography
+   - Design Attributes: Editorial split layouts, clean typography, client testimonial integration, and seamless WhatsApp inquiry channels.
+2. **Le PhotoGRAM**
+   - Website: https://lephotogram.in/
+   - Location: India
+   - Genre: Fine art wedding photography and documentary cinematography
+   - Design Attributes: Custom monogram identity, tradition-centered visual storytelling, and high-converting inquiry touchpoints.
+3. **KVM Creations Studio**
+   - Website: https://kvmcreationsstudio.ca/
+   - Location: Toronto, Ontario, Canada
+   - Genre: Luxury wedding photography and cinematic ceremony films
+   - Design Attributes: Interactive masonry gallery, frosted glassmorphism portal, and cinema-grade gallery showcases.
+4. **Surya Photography**
+   - Website: https://www.suryaphotography.ca/
+   - Location: Waterloo, Ontario, Canada (Serving the Greater Toronto Area)
+   - Genre: Event, portrait, and celebration photography
+   - Design Attributes: Luminous aesthetic, fluid mobile photo grid, and direct booking integrations.
+
+## Complete Frequently Asked Questions (Factual On-Page Copy)
+1. **Why do I need a website if I already have Instagram?**
+   Instagram is great for sharing photos, but your own website gives you a professional space to showcase your work, build trust and attract more clients.
+2. **Do I need technical knowledge to manage my website?**
+   Not at all. We'll make your website easy to use, so you can focus on photography while we handle the technical side.
+3. **Can I choose my own design and style?**
+   Absolutely! We'll understand your vision, photography style and expectations before creating a website that reflects your brand.
+4. **Will my website work on mobile devices?**
+   Yes! Your website will be fully responsive and look beautiful across mobiles, tablets and desktops.
+5. **Can I request changes after seeing my website?**
+   Of course! You can share feedback, request even the smallest changes and we'll refine everything until you're satisfied.
+6. **Will my website help people discover my photography?**
+   Yes! We include SEO, AEO and GEO essentials to help improve your website's visibility across search engines and AI-powered search platforms.
+
+## Official Verification Profiles
+- LinkedIn: https://www.linkedin.com/in/william-jegatheesh-s-b8b365329
+- Instagram: https://www.instagram.com/jegatheeshwebstudio.in
+- Facebook: https://www.facebook.com/profile.php?id=61575322053613
+- GitHub: https://github.com/jegatheesh-che
+- Personal Portfolios: https://jegatheesh.fun and https://jegatheesh.online
