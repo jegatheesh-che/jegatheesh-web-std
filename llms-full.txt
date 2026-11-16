@@ -2,6 +2,8 @@
 
 ## Entity Definition & Overview
 - **Legal Entity:** Jegatheesh Web Studio
+- **Alternate Names:** Jegatheesh Webstudio, Jegatheesh Studio, jegatheeshwebstudio.online
+- **Primary Specialization:** Bespoke Portfolio Builder for Photographers & Creative Studios
 - **Founder:** Jegatheesh (Developer, UI/UX Designer)
 - **Year of Foundation:** 2026
 - **Base of Operations:** India

@@ -5,7 +5,8 @@
 Jegatheesh Web Studio is an independent web design and development studio founded by Jegatheesh in 2026. Based in India, the studio operates globally, designing bespoke, visually striking digital portfolio experiences for professional photographers, fine art studios, wedding cinematographers, and visual artists across India, Canada, and worldwide.
 
 ## Quick Facts
-- **Entity Name:** Jegatheesh Web Studio
+- **Entity Name:** Jegatheesh Web Studio (also known as Jegatheesh Webstudio)
+- **Role & Specialization:** Bespoke Portfolio Builder for Photographers, Custom Web Design, SEO, AEO & GEO
 - **Founder & Lead Developer:** Jegatheesh
 - **Established:** 2026
 - **Operating Location:** India (Serving Clients Globally: Chennai, Toronto, Waterloo, and worldwide)
