@@ -1,0 +1,12 @@
+# Dependencies & Environment
+.playwright-mcp/
+node_modules/
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+final_hero_badge_clean.png
+final_hero_fixed.png
