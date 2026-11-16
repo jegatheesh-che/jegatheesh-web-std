@@ -6097,6 +6097,126 @@ html.lenis body {
 }
 
 /* ==========================================================================
+   Contact Modal & Footer: Personal Portfolios (jegatheesh.fun & jegatheesh.online)
+   ========================================================================== */
+.modal-contact-personal {
+  margin-top: 1.5em;
+  padding-top: 1.25em;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.modal-contact-personal-title {
+  font-size: 0.9em;
+  color: #e2eeff;
+  margin-top: 0;
+  margin-bottom: 0.85em;
+  line-height: 1.45;
+  font-weight: 500;
+}
+
+.modal-contact-personal-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75em;
+}
+
+@media (max-width: 500px) {
+  .modal-contact-personal-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.modal-contact-btn--portfolio {
+  background: rgba(8, 102, 255, 0.16) !important;
+  border-color: rgba(8, 102, 255, 0.45) !important;
+  color: #ffffff !important;
+  padding: 0.85em 1em;
+}
+
+.modal-contact-btn--portfolio:hover {
+  background: rgba(8, 102, 255, 0.35) !important;
+  border-color: rgba(8, 102, 255, 0.8) !important;
+  box-shadow: 0 4px 18px rgba(8, 102, 255, 0.4) !important;
+}
+
+.modal-contact-port-text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  gap: 0.15em;
+}
+
+.modal-contact-port-text strong {
+  font-size: 0.95em;
+  color: #ffffff;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+}
+
+.modal-contact-port-text small {
+  font-size: 0.76em;
+  color: #bfdbfe;
+  font-weight: 400;
+}
+
+/* Footer Personal Portfolios Section */
+.footer__personal-wrap {
+  margin-top: 1.25em;
+  padding-top: 1.15em;
+  border-top: 1px solid rgba(7, 31, 80, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 0.65em;
+}
+
+.footer__personal-friendly-p {
+  font-family: 'Geist', Arial, sans-serif;
+  font-size: 0.84em;
+  line-height: 1.45;
+  color: #3b5278;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+.footer__links--personal {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55em;
+}
+
+.footer_link-wrap--personal {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  text-decoration: none;
+  width: fit-content;
+}
+
+.footer_link-wrap--personal .footer_a {
+  color: #0866ff !important;
+  font-family: 'Geist', Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  transition: color 0.2s ease;
+}
+
+.footer_link-wrap--personal .svg-7 {
+  color: #0866ff !important;
+  width: 0.65em;
+  height: 0.65em;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.footer_link-wrap--personal:hover .footer_a {
+  color: #004ecc !important;
+}
+
+.footer_link-wrap--personal:hover .svg-7 {
+  color: #004ecc !important;
+  transform: translate(2px, -2px);
+}
+
+/* ==========================================================================
    Hero Lanyard ID Badge & 3D Physics Animation
    ========================================================================== */
 #w-node-hero-id-card,

@@ -250,6 +250,25 @@ function initContactModal() {
             <svg viewBox="0 0 11 11"><path d="M1.24993 10.5245L-9.14435e-06 9.27457L7.49961 1.77495L0.624959 1.77495L0.624959 3.99351e-05L10.5245 4.06895e-05L10.5245 9.89954L8.74954 9.89954L8.74954 3.02489L1.24993 10.5245Z"/></svg>
           </a>
         </div>
+        <div class="modal-contact-personal">
+          <p class="modal-contact-personal-title">Want to know more about Jegatheesh? Feel free to visit my personal spaces:</p>
+          <div class="modal-contact-personal-grid">
+            <a href="https://jegatheesh.fun" target="_blank" rel="noopener noreferrer" class="modal-contact-btn modal-contact-btn--portfolio">
+              <span class="modal-contact-port-text">
+                <strong>jegatheesh.fun</strong>
+                <small>Personal Space</small>
+              </span>
+              <svg viewBox="0 0 11 11"><path d="M1.24993 10.5245L-9.14435e-06 9.27457L7.49961 1.77495L0.624959 1.77495L0.624959 3.99351e-05L10.5245 4.06895e-05L10.5245 9.89954L8.74954 9.89954L8.74954 3.02489L1.24993 10.5245Z"/></svg>
+            </a>
+            <a href="https://jegatheesh.online" target="_blank" rel="noopener noreferrer" class="modal-contact-btn modal-contact-btn--portfolio">
+              <span class="modal-contact-port-text">
+                <strong>jegatheesh.online</strong>
+                <small>Personal Website</small>
+              </span>
+              <svg viewBox="0 0 11 11"><path d="M1.24993 10.5245L-9.14435e-06 9.27457L7.49961 1.77495L0.624959 1.77495L0.624959 3.99351e-05L10.5245 4.06895e-05L10.5245 9.89954L8.74954 9.89954L8.74954 3.02489L1.24993 10.5245Z"/></svg>
+            </a>
+          </div>
+        </div>
       </div>
     `;
     document.body.appendChild(backdrop);
